@@ -1,3 +1,10 @@
+# Setting up tests
+ npx create-react-app react-timer
+ cd react-timer
+ npm start
+# Adding enzyme & react-test-renderer enzyme-adapter-react-16
+npm i -D enzyme
+npm i -D react-test-renderer enzyme-adapter-react-16
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
